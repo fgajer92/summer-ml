@@ -1,6 +1,6 @@
 # Summer Machine Learning Practice
 
-This repository contains my self-study projects, scripts, and experiments from the summer of 2026. As a technical physics student, my goal was to translate my mathematical background into practical Machine Learning skills, with a strong focus on data analysis and predictive modeling.
+A collection of my Machine Learning notebooks and scripts from my summer 2026 self-study. I'm a physics student exploring data analysis and ML to get hands-on experience with predictive models.
 
 ## What I've learned and practiced:
 * **Data Manipulation:** Data preprocessing, cleaning, and handling datasets using `pandas` and `numpy`.
